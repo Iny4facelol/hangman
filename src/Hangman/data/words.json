@@ -1,0 +1,378 @@
+[
+  {
+    "word": "gato",
+    "hint": "Un animal doméstico que maúlla."
+  },
+  {
+    "word": "montana",
+    "hint": "Una elevación natural del terreno, más alta que una colina."
+  },
+  {
+    "word": "ordenador",
+    "hint": "Un dispositivo electrónico para procesar información."
+  },
+  {
+    "word": "oceano",
+    "hint": "Un cuerpo de agua salada que cubre la mayor parte del planeta."
+  },
+  {
+    "word": "avion",
+    "hint": "Un vehículo que vuela y transporta personas o mercancías."
+  },
+  {
+    "word": "biblioteca",
+    "hint": "Lugar destinado a la colección, organización y préstamo de libros."
+  },
+  {
+    "word": "aurora",
+    "hint": "Fenómeno luminoso que aparece en el cielo polar."
+  },
+  {
+    "word": "catalejo",
+    "hint": "Instrumento óptico usado para observar objetos lejanos."
+  },
+  {
+    "word": "anacardo",
+    "hint": "Fruto seco con forma de riñón y sabor suave."
+  },
+  {
+    "word": "glaciar",
+    "hint": "Masa de hielo que se desplaza lentamente por una pendiente."
+  },
+  {
+    "word": "palimpsesto",
+    "hint": "Manuscrito antiguo que ha sido reutilizado borrando su contenido original."
+  },
+  {
+    "word": "esfera",
+    "hint": "Cuerpo geométrico perfectamente redondo en tres dimensiones."
+  },
+  {
+    "word": "linterna",
+    "hint": "Dispositivo portátil que emite luz artificial mediante una bombilla."
+  },
+  {
+    "word": "relampago",
+    "hint": "Descarga eléctrica natural visible en el cielo durante una tormenta."
+  },
+  {
+    "word": "catedral",
+    "hint": "Templo cristiano monumental que alberga la sede de un obispo."
+  },
+  {
+    "word": "quimera",
+    "hint": "Sueño o ilusión que resulta inalcanzable."
+  },
+  {
+    "word": "murcielago",
+    "hint": "Mamífero volador asociado a la nocturnidad y los ecosistemas cavernícolas."
+  },
+  {
+    "word": "paradigma",
+    "hint": "Modelo o ejemplo que sirve como referencia en un contexto."
+  },
+  {
+    "word": "vertice",
+    "hint": "Punto de intersección entre dos líneas o aristas."
+  },
+  {
+    "word": "condor",
+    "hint": "Ave carroñera de gran tamaño que habita en zonas montañosas."
+  },
+  {
+    "word": "travesia",
+    "hint": "Recorrido extenso y generalmente arduo por tierra, mar o aire."
+  },
+  {
+    "word": "astrolabio",
+    "hint": "Instrumento usado en la antigüedad para observar la posición de los astros."
+  },
+  {
+    "word": "azulejo",
+    "hint": "Pieza cerámica esmaltada usada en revestimientos decorativos."
+  },
+  {
+    "word": "boveda",
+    "hint": "Estructura arquitectónica curvada que cubre un espacio."
+  },
+  {
+    "word": "emparrado",
+    "hint": "Estructura formada por plantas trepadoras, usada como sombra."
+  },
+  {
+    "word": "clepsidra",
+    "hint": "Antiguo instrumento para medir el tiempo utilizando agua."
+  },
+  {
+    "word": "estalactita",
+    "hint": "Formación mineral que cuelga del techo de una cueva."
+  },
+  {
+    "word": "alambique",
+    "hint": "Aparato usado para destilar líquidos, separando sus componentes."
+  },
+  {
+    "word": "forastero",
+    "hint": "Persona que viene de un lugar distinto al que se encuentra."
+  },
+  {
+    "word": "crisol",
+    "hint": "Recipiente usado para fundir metales o mezclar sustancias a altas temperaturas."
+  },
+  {
+    "word": "helecho",
+    "hint": "Planta sin flores de hojas largas y divididas en frondas."
+  },
+  {
+    "word": "monasterio",
+    "hint": "Edificio donde habitan comunidades religiosas en retiro espiritual."
+  },
+  {
+    "word": "sarcofago",
+    "hint": "Ataúd de piedra usado en civilizaciones antiguas."
+  },
+  {
+    "word": "tarantula",
+    "hint": "Araña de gran tamaño que habita en climas cálidos."
+  },
+  {
+    "word": "eslabon",
+    "hint": "Pieza individual que forma parte de una cadena."
+  },
+  {
+    "word": "estandarte",
+    "hint": "Bandera o insignia que representa a un grupo o institución."
+  },
+  {
+    "word": "caligrafo",
+    "hint": "Persona experta en la escritura artística y ornamental."
+  },
+  {
+    "word": "huracan",
+    "hint": "Fenómeno meteorológico caracterizado por fuertes vientos y lluvias."
+  },
+  {
+    "word": "alquimia",
+    "hint": "Antigua práctica que buscaba la transmutación de metales en oro."
+  },
+  {
+    "word": "bifurcacion",
+    "hint": "Lugar donde un camino o vía se divide en dos ramales."
+  },
+  {
+    "word": "pendulo",
+    "hint": "Objeto suspendido que oscila bajo la acción de la gravedad."
+  },
+  {
+    "word": "paracaidas",
+    "hint": "Dispositivo diseñado para frenar la caída libre en el aire."
+  },
+  {
+    "word": "meteorito",
+    "hint": "Fragmento de roca o metal que cae desde el espacio a la Tierra."
+  },
+  {
+    "word": "teorema",
+    "hint": "Proposición matemática que requiere demostración para ser aceptada."
+  },
+  {
+    "word": "mandragora",
+    "hint": "Planta asociada a leyendas por su forma humanoide y supuestos poderes."
+  },
+  {
+    "word": "antropologia",
+    "hint": "Ciencia que estudia al ser humano en sus aspectos físicos y culturales."
+  },
+  {
+    "word": "hemisferio",
+    "hint": "Cada una de las mitades de la esfera terrestre o celeste."
+  },
+  {
+    "word": "cristalografia",
+    "hint": "Ciencia que estudia la estructura y propiedades de los cristales."
+  },
+  {
+    "word": "pergamino",
+    "hint": "Material usado en la antigüedad para escribir, hecho de piel de animal."
+  },
+  {
+    "word": "silogismo",
+    "hint": "Razonamiento lógico que consta de tres proposiciones."
+  },
+  {
+    "word": "anemometro",
+    "hint": "Instrumento utilizado para medir la velocidad del viento."
+  },
+  {
+    "word": "topografia",
+    "hint": "Disciplina que describe y representa en detalle la superficie terrestre."
+  },
+  {
+    "word": "orfebreria",
+    "hint": "Arte de trabajar objetos decorativos en metales preciosos."
+  },
+  {
+    "word": "fosilizacion",
+    "hint": "Proceso por el cual los restos orgánicos se convierten en fósiles."
+  },
+  {
+    "word": "bioquimica",
+    "hint": "Ciencia que estudia las sustancias químicas en los organismos vivos."
+  },
+  {
+    "word": "heliotropo",
+    "hint": "Planta que sigue la dirección del sol a lo largo del día."
+  },
+  {
+    "word": "arqueologia",
+    "hint": "Estudio de las civilizaciones antiguas a través de sus restos materiales."
+  },
+  {
+    "word": "isotopo",
+    "hint": "Variante de un elemento químico que difiere en número de neutrones."
+  },
+  {
+    "word": "criptografia",
+    "hint": "Ciencia que estudia técnicas de escritura secreta."
+  },
+  {
+    "word": "fractal",
+    "hint": "Figura geométrica que se repite a diferentes escalas en un patrón infinito."
+  },
+  {
+    "word": "termometro",
+    "hint": "Instrumento usado para medir la temperatura."
+  },
+  {
+    "word": "morfologia",
+    "hint": "Rama de la biología que estudia la forma y estructura de los organismos."
+  },
+  {
+    "word": "fotolitografia",
+    "hint": "Técnica usada en la fabricación de circuitos integrados."
+  },
+  {
+    "word": "litografia",
+    "hint": "Método de impresión basado en el uso de piedras o placas."
+  },
+  {
+    "word": "ciclopico",
+    "hint": "Relacionado con los cíclopes, o algo de dimensiones enormes."
+  },
+  {
+    "word": "poliedro",
+    "hint": "Figura geométrica de múltiples caras planas."
+  },
+  {
+    "word": "tropismo",
+    "hint": "Movimiento de un organismo vegetal en respuesta a estímulos externos."
+  },
+  {
+    "word": "psicologia",
+    "hint": "Ciencia que estudia los procesos mentales y comportamientos del ser humano."
+  },
+  {
+    "word": "electrolisis",
+    "hint": "Proceso químico que separa elementos mediante corriente eléctrica."
+  },
+  {
+    "word": "zoologia",
+    "hint": "Ciencia que estudia a los animales y su comportamiento."
+  },
+  {
+    "word": "cromatografia",
+    "hint": "Técnica para separar los componentes de una mezcla."
+  },
+  {
+    "word": "macromolecula",
+    "hint": "Molécula de gran tamaño compuesta por miles de átomos."
+  },
+  {
+    "word": "equinoccio",
+    "hint": "Momento del año en que el día y la noche tienen la misma duración."
+  },
+  {
+    "word": "epigrafia",
+    "hint": "Ciencia que estudia las inscripciones antiguas sobre piedra u otros materiales."
+  },
+  {
+    "word": "navegacion",
+    "hint": "Acción de desplazarse por el agua, el aire o el espacio."
+  },
+  {
+    "word": "arquitectura",
+    "hint": "Arte y técnica de diseñar y construir edificios y estructuras."
+  },
+  {
+    "word": "etimologia",
+    "hint": "Estudio del origen y la evolución de las palabras."
+  },
+  {
+    "word": "sismografia",
+    "hint": "Técnica que registra la intensidad y duración de los terremotos."
+  },
+  {
+    "word": "metafisica",
+    "hint": "Rama de la filosofía que estudia la naturaleza de la realidad y el ser."
+  },
+  {
+    "word": "cosmogonia",
+    "hint": "Conjunto de teorías que explican el origen del universo."
+  },
+  {
+    "word": "nebulosa",
+    "hint": "Nube de gas y polvo en el espacio interestelar."
+  },
+  {
+    "word": "espectroscopia",
+    "hint": "Estudio de la interacción entre la radiación y la materia."
+  },
+  {
+    "word": "amplitud",
+    "hint": "Medida de la extensión o magnitud de un fenómeno o espacio."
+  },
+  {
+    "word": "hipotesis",
+    "hint": "Suposición planteada para explicar un fenómeno, que requiere verificación."
+  },
+  {
+    "word": "pendulo",
+    "hint": "Objeto suspendido que oscila bajo la acción de la gravedad."
+  },
+  {
+    "word": "fotovoltaico",
+    "hint": "Relacionado con la generación de energía eléctrica a partir de la luz solar."
+  },
+  {
+    "word": "cinetica",
+    "hint": "Rama de la física que estudia el movimiento de los cuerpos."
+  },
+  {
+    "word": "taxonomia",
+    "hint": "Ciencia que clasifica a los seres vivos según sus características comunes."
+  },
+  {
+    "word": "demografia",
+    "hint": "Estudio estadístico de las poblaciones humanas."
+  },
+  {
+    "word": "antropomorfo",
+    "hint": "Que tiene forma o características humanas."
+  },
+  {
+    "word": "paleontologia",
+    "hint": "Ciencia que estudia los fósiles para entender el pasado geológico y biológico."
+  },
+  {
+    "word": "eclectico",
+    "hint": "Que combina elementos de diferentes estilos, ideas o corrientes."
+  },
+  {
+    "word": "cuantico",
+    "hint": "Relacionado con la física que estudia los fenómenos a escala atómica y subatómica."
+  },
+  {
+    "word": "alquimia",
+    "hint": "Antigua práctica que buscaba transformar metales comunes en oro."
+  }
+]
