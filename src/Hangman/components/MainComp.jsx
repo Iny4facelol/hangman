@@ -89,7 +89,7 @@ export const MainComp = () => {
     <>
       <span>The Hangman</span>
       <div className="container2">
-        <article>
+        <article className="select-letter">
           <h2>Elige una letra</h2>
           <input
             onKeyDown={(e) => {
@@ -106,12 +106,12 @@ export const MainComp = () => {
             Enviar
           </button>
         </article>
-        <article>
+        <article className="secret-word">
           <h2>¿Qué palabra será?</h2>
           <p className="key-word">{hideWord()}</p>
           <p>{hint}</p>
         </article>
-        <article>
+        <article className="hangman-img">
           <h2>Este eres tú</h2>
           <img src={image} alt="" />
           <p>Intentos restantes: {showAttempts}</p>

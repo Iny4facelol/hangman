@@ -70,6 +70,36 @@
   }
 }
 
+@media (width <= 420px) {
+  .bg-game {
+    height: max-content;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .container {
+    overflow: hidden;
+    height: max-content;
+    padding-block: 1rem;
+    h1 {
+      margin-top: 15rem;
+      position: relative;
+      font-size: 5rem;
+    }
+  }
+  .container2 {
+    flex-direction: column;
+    article {
+      width: 100%;
+    }
+    .select-letter {
+      order: 2;
+    }
+    .hangman-img {
+      order: 3;
+    }
+  }
+}
+
 span {
   color: black;
   font-size: 5rem;
